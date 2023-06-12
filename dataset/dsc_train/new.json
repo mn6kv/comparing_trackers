@@ -1,0 +1,3082 @@
+[
+  {
+    "image": "DSC_0228-1-_mp4-0_jpg.rf.5639ba448d47ba9c53a53fd9ea59fb85.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1120.09,
+          "y": 306.52,
+          "width": 252.33,
+          "height": 347.32
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-2_jpg.rf.39fd5c6fc5cdcecb2fbd77be1289f9e5.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1125,
+          "y": 313.94,
+          "width": 255.71,
+          "height": 345.02
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-3_jpg.rf.2e36053b8011a9b116cdde8622b43c30.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1121.43,
+          "y": 312.86,
+          "width": 254.29,
+          "height": 365.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-4_jpg.rf.c0c50f641a69f0bb4e0fbb8100f5251c.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1111.43,
+          "y": 319.29,
+          "width": 257.14,
+          "height": 387.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-5_jpg.rf.9f1ac7a77539e3c715ac4e68d9898ffb.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1102.14,
+          "y": 350.71,
+          "width": 278.57,
+          "height": 387.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-6_jpg.rf.010545ba8697a4c5efc5f03a23b7832d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1091.43,
+          "y": 349.29,
+          "width": 294.29,
+          "height": 427.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-7_jpg.rf.78a4f7cd483b5c5f5b949d9dcb2cfc55.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1069.29,
+          "y": 357.86,
+          "width": 315.71,
+          "height": 444.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-8_jpg.rf.cce75d02af5fb4569b3bdc7eee28bdc0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1041.43,
+          "y": 359.29,
+          "width": 282.86,
+          "height": 475.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-9_jpg.rf.3c71dffcf5551e5441513b1f470b40f0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1030,
+          "y": 375.71,
+          "width": 297.14,
+          "height": 471.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-10_jpg.rf.9632e94291d690d303374a5dc6449926.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1033.58,
+          "y": 390,
+          "width": 298.57,
+          "height": 468.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-11_jpg.rf.44c1151c56501d7ac470a0d4249e1dec.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1037.86,
+          "y": 391.43,
+          "width": 307.14,
+          "height": 494.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-12_jpg.rf.ffc973f2051db4ac986f0180eaf0554f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1044.29,
+          "y": 400,
+          "width": 302.86,
+          "height": 500
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-13_jpg.rf.4c15601f44a66e759fc6d3551aa4274f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1050.71,
+          "y": 410.71,
+          "width": 307.15,
+          "height": 481.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-14_jpg.rf.b86fc9ef988b49026cdcc2aa606b151c.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1057.86,
+          "y": 420,
+          "width": 304.28,
+          "height": 488.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-15_jpg.rf.1d4fc0197f2b18eb724036ff4ae105dd.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1064.29,
+          "y": 437.86,
+          "width": 302.86,
+          "height": 487.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-16_jpg.rf.3c545166d8b2104b233689549b320827.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1060,
+          "y": 445.71,
+          "width": 305.71,
+          "height": 480
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-17_jpg.rf.5ab934043cfdcff027370b33280edffc.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1057.86,
+          "y": 440.71,
+          "width": 301.42,
+          "height": 467.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-18_jpg.rf.6316aa7350afc1fde3b4595c726bf71a.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1054.29,
+          "y": 429.29,
+          "width": 297.15,
+          "height": 472.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-19_jpg.rf.aa36458523b22a3366d9dd6d3178f4e8.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1049.29,
+          "y": 422.14,
+          "width": 301.43,
+          "height": 478.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-20_jpg.rf.f96a5604a9e8c9f986472831b3d5c746.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1047.14,
+          "y": 418.57,
+          "width": 300,
+          "height": 477.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-21_jpg.rf.72ee720a398c0937c2a1f7678daf0414.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1042.86,
+          "y": 430,
+          "width": 300,
+          "height": 454.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-22_jpg.rf.3e8c2a57e83b68c9b9a0308864f5a6b7.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1040,
+          "y": 420.71,
+          "width": 294.28,
+          "height": 481.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-23_jpg.rf.96ba686e9805dc332caeae436b437e81.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1038.57,
+          "y": 427.14,
+          "width": 297.14,
+          "height": 474.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-24_jpg.rf.b285ca6ec3a6dcf62c0394a5fbf63299.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1040,
+          "y": 416.43,
+          "width": 294.28,
+          "height": 487.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-25_jpg.rf.866c0b5fcded31400e8f7f1ef1f68914.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1043.58,
+          "y": 424.28,
+          "width": 281.43,
+          "height": 468.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-26_jpg.rf.13b7f5bb700ab31e2f4bf6bccd7a27ea.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1047.85,
+          "y": 428.57,
+          "width": 278.58,
+          "height": 480
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-27_jpg.rf.7e2c1c82d97ceabfea82233d2c19ade1.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1051.43,
+          "y": 442.14,
+          "width": 280,
+          "height": 478.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-28_jpg.rf.af19d9870380cf9a8b3ab9db71affca5.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1062.85,
+          "y": 430,
+          "width": 294.29,
+          "height": 468.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-29_jpg.rf.5ae2f75effddc880a24049cf4883ec99.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1064.28,
+          "y": 391.43,
+          "width": 288.58,
+          "height": 451.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-30_jpg.rf.1cadeedc57c7af9bd01fca7bba1be452.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1067.15,
+          "y": 377.86,
+          "width": 280,
+          "height": 438.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-31_jpg.rf.c96cc21efe34859d4775e7185fc14bbc.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1075,
+          "y": 372.86,
+          "width": 255.71,
+          "height": 434.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-32_jpg.rf.78a35992ed9ad4e6bad06d582ad4667f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1060,
+          "y": 368.57,
+          "width": 211.43,
+          "height": 408.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-33_jpg.rf.42fc015864784dcd2528d58551614e56.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1097.86,
+          "y": 374.29,
+          "width": 264.29,
+          "height": 357.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-34_jpg.rf.c288fd1ef18154a48116ae99d03d2681.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1057.86,
+          "y": 378.57,
+          "width": 155.71,
+          "height": 342.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-35_jpg.rf.bd09dd0cbd3aeefb888a50023ed0c089.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1077.85,
+          "y": 363.57,
+          "width": 158.58,
+          "height": 350
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-36_jpg.rf.730b2fef1555437e55329ea560bc1b9b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1080,
+          "y": 373.57,
+          "width": 151.42,
+          "height": 321.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-37_jpg.rf.9d59420b5cc383fa57a5f67e295ca0a2.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1086.43,
+          "y": 358.57,
+          "width": 144.28,
+          "height": 331.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-38_jpg.rf.52d3ed8bef3bc1708f13f2025819a352.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1086.43,
+          "y": 360,
+          "width": 144.28,
+          "height": 328.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-39_jpg.rf.4232793ccdf689694f319a752a44b968.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1086.43,
+          "y": 367.14,
+          "width": 144.28,
+          "height": 320
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-40_jpg.rf.433dfe7e22744abdeedf5f581637c122.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1082.86,
+          "y": 375,
+          "width": 134.29,
+          "height": 318.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-41_jpg.rf.55173eb6d4f3a1fe01eba4a9ab658137.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1092.86,
+          "y": 390.71,
+          "width": 142.85,
+          "height": 324.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-42_jpg.rf.01a8b2072219223281e699768b110325.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1105,
+          "y": 379.29,
+          "width": 158.57,
+          "height": 370
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-43_jpg.rf.96c7c03bc286f51d6f1f5448a8cf7d4e.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1114.28,
+          "y": 401.43,
+          "width": 154.28,
+          "height": 348.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-44_jpg.rf.bc9107b9c9c2b41cc9d5b6c98b140355.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1116.43,
+          "y": 416.43,
+          "width": 161.43,
+          "height": 330
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-45_jpg.rf.9f0f1e98eb8d0fc66b7e328921597079.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1112.85,
+          "y": 431.43,
+          "width": 154.29,
+          "height": 314.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-46_jpg.rf.4a6c8a5734a45dadee8e70dc208b7498.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1104.28,
+          "y": 422.14,
+          "width": 145.72,
+          "height": 338.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-47_jpg.rf.72dc7ee34f95757aea5d1e4110d0b0e2.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1101.43,
+          "y": 435.71,
+          "width": 142.85,
+          "height": 325.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-48_jpg.rf.c905538c37e396630b5820f68f568ca7.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1110.71,
+          "y": 437.86,
+          "width": 161.43,
+          "height": 324.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-49_jpg.rf.ed9ee5fe171a93ad04092cde800ecb1e.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1103.57,
+          "y": 450,
+          "width": 155.71,
+          "height": 314.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-50_jpg.rf.e9ba20e7253083c3818de03ebeb54a2f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1104.29,
+          "y": 455,
+          "width": 160,
+          "height": 304.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-51_jpg.rf.658f39ff8f5023029bd9e050ff4e3d5a.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1113.57,
+          "y": 455.71,
+          "width": 170,
+          "height": 305.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-52_jpg.rf.b6a327ba92867e9fb510a792a8ebd4a3.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1105.72,
+          "y": 455.71,
+          "width": 151.43,
+          "height": 311.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-53_jpg.rf.2ac92378008143847c5f5b802bfcb047.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1105,
+          "y": 452.14,
+          "width": 150,
+          "height": 330
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-54_jpg.rf.7e91896297a744c195eb72cf8ee19015.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1102.85,
+          "y": 452.86,
+          "width": 148.57,
+          "height": 331.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-55_jpg.rf.d202af4c0540674bc5fcb22a109240f0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1097.86,
+          "y": 459.29,
+          "width": 147.14,
+          "height": 327.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-56_jpg.rf.e55eb62c79765c464c5484c8ef1533f7.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1093.58,
+          "y": 470,
+          "width": 150,
+          "height": 311.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-57_jpg.rf.e4d5741f92607ea973241f4f0b829c1f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1075,
+          "y": 471.42,
+          "width": 132.86,
+          "height": 291.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-58_jpg.rf.538f129e7cacec811fe8d6db76766bee.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1067.86,
+          "y": 459.29,
+          "width": 138.57,
+          "height": 310
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-59_jpg.rf.6a5240d90b0a674f3340d6bddbfeea80.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1044.28,
+          "y": 477.14,
+          "width": 120,
+          "height": 271.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-60_jpg.rf.e27bb0a05b49ca7e42d832770b070d58.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1029.29,
+          "y": 505.71,
+          "width": 101.43,
+          "height": 208.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-61_jpg.rf.106847a0754ac7b9fa8c1cfe8f6fbd1b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1017.86,
+          "y": 512.86,
+          "width": 98.57,
+          "height": 208.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-62_jpg.rf.f525f00ce89e0818b6cd6bcf07261c38.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1012.19,
+          "y": 503.75,
+          "width": 94.38,
+          "height": 208.75
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-63_jpg.rf.08ebc224292ad99aa8f6b2088fc7ca55.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1008.44,
+          "y": 508.75,
+          "width": 95.63,
+          "height": 201.25
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-64_jpg.rf.7c801c07dc955ac4154bd3dbb3ae44a7.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1007.5,
+          "y": 505.94,
+          "width": 92.5,
+          "height": 199.38
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-65_jpg.rf.bebb0855016ed05003b40821e4896637.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1016.56,
+          "y": 515.94,
+          "width": 105.63,
+          "height": 190.63
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-66_jpg.rf.5cbfd812e52d6e90e8cf6e47e9ca15d3.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1019.06,
+          "y": 507.19,
+          "width": 106.88,
+          "height": 214.38
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-67_jpg.rf.0b2b5e0f1f0c108d072d02dd45237088.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1024.06,
+          "y": 521.56,
+          "width": 116.88,
+          "height": 200.62
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-68_jpg.rf.8953c318f2069cb3a71db66c7f6d0301.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1025,
+          "y": 525,
+          "width": 120,
+          "height": 198.75
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-69_jpg.rf.30e6d08ae37ac0624c57cf47f48c5c0b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1019.06,
+          "y": 521.56,
+          "width": 109.38,
+          "height": 204.38
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-70_jpg.rf.9a72b78ac4b82b006ee59646d858e7e1.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1023.44,
+          "y": 518.13,
+          "width": 115.63,
+          "height": 210
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-71_jpg.rf.a1a98ebc39e9df06bb7973e92506fbc8.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1022.27,
+          "y": 528.18,
+          "width": 111.82,
+          "height": 183.64
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-72_jpg.rf.3ea674fa24b55984bea97e3264c78887.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1022.19,
+          "y": 523.75,
+          "width": 114.38,
+          "height": 193.75
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-73_jpg.rf.9b39e7fbcbbe8c99eeadf89aab3da48e.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1020.94,
+          "y": 521.88,
+          "width": 111.88,
+          "height": 200
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-74_jpg.rf.fea4dba76d88c9d2d62733eda8c6727d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1023.64,
+          "y": 528.64,
+          "width": 110.91,
+          "height": 186.36
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-75_jpg.rf.296f70279f2736fdb2d648e168225713.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1021.56,
+          "y": 526.88,
+          "width": 106.88,
+          "height": 190
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-76_jpg.rf.b20cbd140d002979c86df422486b2fdc.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1022.19,
+          "y": 522.19,
+          "width": 109.38,
+          "height": 200.63
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-77_jpg.rf.39b14be26a32982f01c3c186750c486a.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1024.06,
+          "y": 521.56,
+          "width": 113.13,
+          "height": 200.63
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-78_jpg.rf.60c17b1256274ce6b6345899c21ffc06.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1020.94,
+          "y": 518.13,
+          "width": 108.13,
+          "height": 208.75
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-79_jpg.rf.4586b2c69bd39c2f9d427161ce7b6535.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1024.06,
+          "y": 521.25,
+          "width": 113.13,
+          "height": 207.5
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-80_jpg.rf.6c6bc61b54dcf7d7d4e692408b3d952f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1022.5,
+          "y": 529.38,
+          "width": 107.5,
+          "height": 185
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-81_jpg.rf.de49ced1be864dfa6d0a3d85cc4fd5b8.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1023.75,
+          "y": 529.06,
+          "width": 111.25,
+          "height": 188.12
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-82_jpg.rf.a0d00a9457ba91eefb5ff3354d7ce412.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1023.75,
+          "y": 518.13,
+          "width": 112.5,
+          "height": 206.25
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-83_jpg.rf.bcc81c353d1c651938d33b3f6bb658a3.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1021.88,
+          "y": 516.56,
+          "width": 106.25,
+          "height": 204.38
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-84_jpg.rf.aa902a673a60970e602718bff1a3a677.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1023.13,
+          "y": 511.88,
+          "width": 111.25,
+          "height": 213.75
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-85_jpg.rf.040dfc82e73a68ef26c8c9f3b1b5ef8f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1022.81,
+          "y": 510.31,
+          "width": 105.63,
+          "height": 214.38
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-86_jpg.rf.f1d26090d15f38a6aecb4cfa51f693ad.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1023.75,
+          "y": 518.44,
+          "width": 107.5,
+          "height": 206.88
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-87_jpg.rf.b83fdbb053f8527cfc82006c3b1e0559.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1032.86,
+          "y": 520.71,
+          "width": 128.57,
+          "height": 218.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-88_jpg.rf.9e4f0940112fece16ee513b361d6993b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1035,
+          "y": 519.29,
+          "width": 130,
+          "height": 230
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-89_jpg.rf.3ef319596cfc6c4f6cbb99117465a0e3.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1039.29,
+          "y": 521.43,
+          "width": 124.29,
+          "height": 240
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-90_jpg.rf.4405f7fe77f856908c76d8bc65cda107.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1044.29,
+          "y": 515,
+          "width": 128.57,
+          "height": 247.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-91_jpg.rf.9286d491ddc195ea563806ea769aca91.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1047.86,
+          "y": 529.29,
+          "width": 121.43,
+          "height": 230
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-92_jpg.rf.dc1cab64028439cf3d9af66f769a9527.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1056.43,
+          "y": 525.71,
+          "width": 132.86,
+          "height": 237.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-93_jpg.rf.a27c7a3ca4fd1c7dc1182621f58b054f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1055,
+          "y": 519.29,
+          "width": 127.14,
+          "height": 247.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-94_jpg.rf.53e0ca3c514d55bb81585c0171875b50.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1060,
+          "y": 522.86,
+          "width": 140,
+          "height": 234.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-95_jpg.rf.6727111b76b222fd7c13a2f645fe65fc.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1059.29,
+          "y": 520,
+          "width": 132.86,
+          "height": 237.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-96_jpg.rf.7b0dd18c8ddaa73f59df7f64ecac213a.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1064.29,
+          "y": 514.29,
+          "width": 142.86,
+          "height": 245.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-97_jpg.rf.58fe63b9688f563bf3a7be11324f5b61.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1072.86,
+          "y": 508.57,
+          "width": 145.71,
+          "height": 257.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-98_jpg.rf.72c6e92ea35e8188d5502adcc4f78545.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1101.43,
+          "y": 487.14,
+          "width": 165.71,
+          "height": 314.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-99_jpg.rf.3bb2f5563a42a983ad88cc100315758f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1185.71,
+          "y": 465.71,
+          "width": 234.29,
+          "height": 351.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-100_jpg.rf.7f07fe86986119556a5c74862b66fafc.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1207.14,
+          "y": 448.57,
+          "width": 248.57,
+          "height": 374.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-101_jpg.rf.33aa99286fb1ff145a4f6077917268d6.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1212.14,
+          "y": 430,
+          "width": 247.14,
+          "height": 405.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-102_jpg.rf.d1ed6962525362e5eda3d88dd719fd8f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1212.14,
+          "y": 431.43,
+          "width": 247.14,
+          "height": 394.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-103_jpg.rf.424ad72e1c040e039d763698202db00b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1198.57,
+          "y": 436.43,
+          "width": 228.57,
+          "height": 375.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-104_jpg.rf.3dfad0f6803a3a3c9a996339e63760ae.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1170.71,
+          "y": 439.29,
+          "width": 198.57,
+          "height": 370
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-105_jpg.rf.e0125c6101ab911701e85ad76bb98563.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1127.86,
+          "y": 453.57,
+          "width": 181.43,
+          "height": 338.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-106_jpg.rf.2d95a0bc3931e0ff056991a45f9678b0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1109.29,
+          "y": 455.71,
+          "width": 164.29,
+          "height": 334.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-107_jpg.rf.48609511070834edd9098aedf4ed3724.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1088.57,
+          "y": 468.57,
+          "width": 145.71,
+          "height": 314.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-108_jpg.rf.abfd5cfed4eacfc52393574b7ff241f6.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1079.29,
+          "y": 492.86,
+          "width": 144.29,
+          "height": 285.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-109_jpg.rf.77e28168757bd2cc70dbf3e5bffe1999.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1062.14,
+          "y": 509.29,
+          "width": 130,
+          "height": 270
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-110_jpg.rf.a5b2f2a32e19ba5d263216aadb6d40a0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1020.71,
+          "y": 518.57,
+          "width": 90,
+          "height": 177.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-111_jpg.rf.e93c0bcdb7ca9e6623ae3e752902047e.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1040.71,
+          "y": 557.86,
+          "width": 104.29,
+          "height": 181.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-112_jpg.rf.fe426c9d121bbd8d26189ad2285b1ce3.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1047.81,
+          "y": 545,
+          "width": 116.88,
+          "height": 208.75
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-113_jpg.rf.21b908414439413069a1d80bed968e3d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1055.63,
+          "y": 550,
+          "width": 117.5,
+          "height": 215
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-114_jpg.rf.e0f986a4a2197120eebb1caec56e3f4d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1057.14,
+          "y": 554.29,
+          "width": 114.29,
+          "height": 202.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-115_jpg.rf.bea3afa2345f1526506582243e234a9e.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1070.71,
+          "y": 562.14,
+          "width": 132.86,
+          "height": 201.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-116_jpg.rf.cc864944ce2a36f0c008ff1d51abb829.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1082.86,
+          "y": 540.71,
+          "width": 142.86,
+          "height": 244.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-117_jpg.rf.53d8d5c177bada37a1119a1a86c02c05.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1087.14,
+          "y": 525.71,
+          "width": 137.14,
+          "height": 265.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-118_jpg.rf.0c75693c3f6c6a1e9465b11bf1aa2592.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1089.29,
+          "y": 513.57,
+          "width": 141.43,
+          "height": 281.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-119_jpg.rf.183b6734ba30450cc41982bca14034c8.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1096.43,
+          "y": 506.43,
+          "width": 144.29,
+          "height": 290
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-120_jpg.rf.fd32a5c67d00fd801166867d4492a825.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1097.86,
+          "y": 517.14,
+          "width": 144.29,
+          "height": 265.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-121_jpg.rf.71954d925a09953f27e855cb126f27ba.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1098.57,
+          "y": 512.14,
+          "width": 145.71,
+          "height": 270
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-122_jpg.rf.8af107a7d733db1e153409af22f4bc0f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1101.43,
+          "y": 514.29,
+          "width": 142.86,
+          "height": 257.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-123_jpg.rf.b25df0d6a34753150d4e790fafe38a36.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1102.86,
+          "y": 507.86,
+          "width": 140,
+          "height": 267.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-124_jpg.rf.41a3b3fc2e684178292fb837431748b7.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1103.57,
+          "y": 509.29,
+          "width": 141.43,
+          "height": 264.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-125_jpg.rf.4954c6978ff6ec6135f3484b248fe2f9.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1102.14,
+          "y": 497.14,
+          "width": 138.57,
+          "height": 271.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-126_jpg.rf.183673937437aed5faf7327aaeb32d76.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1100,
+          "y": 503.57,
+          "width": 142.86,
+          "height": 258.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-127_jpg.rf.d33485fa361fafccbbae7ba8d32e9d1b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1095.71,
+          "y": 528.57,
+          "width": 134.29,
+          "height": 211.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-128_jpg.rf.5073f7262f72d40a4ef6c2f416dfff61.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1097.14,
+          "y": 527.86,
+          "width": 134.29,
+          "height": 224.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-129_jpg.rf.fb688849830c8f2fc45c0963a073c6be.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1096.43,
+          "y": 514.29,
+          "width": 135.71,
+          "height": 245.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-130_jpg.rf.195838abb387780459b798b95d99a359.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1098.57,
+          "y": 520.71,
+          "width": 142.86,
+          "height": 232.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-131_jpg.rf.666b83fb413db184a747d68c92e05e98.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1095.71,
+          "y": 535,
+          "width": 137.14,
+          "height": 215.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-132_jpg.rf.afdb0293bea482fb1d85615d9dd16097.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1093.57,
+          "y": 529.29,
+          "width": 135.71,
+          "height": 230
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-133_jpg.rf.68fe3dff866eb834a09df4abd54f7ffa.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1093.57,
+          "y": 533.57,
+          "width": 132.86,
+          "height": 221.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-134_jpg.rf.e65d950c055ef353ae51eeb24f438256.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1097.86,
+          "y": 541.43,
+          "width": 138.57,
+          "height": 205.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-135_jpg.rf.a19ae9798e5dc8bbdcfafc347277bc9b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1093.57,
+          "y": 532.86,
+          "width": 132.86,
+          "height": 222.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-136_jpg.rf.837b3b9dfb0a4f9c807b2da94148537e.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1095,
+          "y": 546.43,
+          "width": 138.57,
+          "height": 201.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-137_jpg.rf.8ca6115d65095dae5825b78ab0c08dc0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1091.43,
+          "y": 538.57,
+          "width": 137.14,
+          "height": 220
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-138_jpg.rf.af2fdf99df47ace19a9d53151813eeea.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1090,
+          "y": 539.29,
+          "width": 131.43,
+          "height": 218.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-139_jpg.rf.4fe577e47bfb274ea8637e0a71b02f46.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1091.43,
+          "y": 532.86,
+          "width": 137.14,
+          "height": 234.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-140_jpg.rf.849a9f7a5aa976309e9e8c25fd693932.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1091.43,
+          "y": 543.57,
+          "width": 131.43,
+          "height": 212.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-141_jpg.rf.c8fb7b32f8966e047ceb20c4babae857.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1096.43,
+          "y": 548.57,
+          "width": 132.86,
+          "height": 197.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-142_jpg.rf.642c3bd94255ef64bfa9d4507172ef04.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1097.14,
+          "y": 546.43,
+          "width": 134.29,
+          "height": 198.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-143_jpg.rf.f504f0ead17e89176de35c3751c93db9.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1096.43,
+          "y": 543.57,
+          "width": 130,
+          "height": 207.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-144_jpg.rf.2400268fe87c5ae387859878cb24d62b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1103.57,
+          "y": 545.71,
+          "width": 141.43,
+          "height": 200
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-145_jpg.rf.fdaa5ac0c050094b78f03021a7937e29.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1102.14,
+          "y": 542.86,
+          "width": 135.71,
+          "height": 200
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-146_jpg.rf.dd687250eaafded23379209727992ced.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1099.29,
+          "y": 537.14,
+          "width": 130,
+          "height": 208.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-147_jpg.rf.4dcc461edaab2f9175ad251dfa4600f0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1101.43,
+          "y": 537.86,
+          "width": 131.43,
+          "height": 204.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-148_jpg.rf.a0b3cea6fcbcca9073293dc7b6dbfba4.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1109.29,
+          "y": 540,
+          "width": 141.43,
+          "height": 200
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-149_jpg.rf.0c8e8a9388dff233f49274f6c3ecbbbf.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1111.43,
+          "y": 524.29,
+          "width": 145.71,
+          "height": 231.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-150_jpg.rf.1a5b9991ae6fd23dc44088227425a1c9.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1118.57,
+          "y": 526.43,
+          "width": 160,
+          "height": 232.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-151_jpg.rf.05b0a6ccf551e6588da881c5d1ef6169.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1120.71,
+          "y": 535.71,
+          "width": 155.71,
+          "height": 225.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-152_jpg.rf.92f0b83e6173290831816bbefbc3a892.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1119.29,
+          "y": 549.29,
+          "width": 152.86,
+          "height": 204.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-153_jpg.rf.debe1610d28130f8edcf4858fa919714.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1120,
+          "y": 532.14,
+          "width": 157.14,
+          "height": 241.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-154_jpg.rf.ab3a74cda8d99e0f0d75ef36a711928e.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1117.86,
+          "y": 537.86,
+          "width": 152.86,
+          "height": 232.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-155_jpg.rf.5a6e436ac2144004b745e97b69cae8c6.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1114.29,
+          "y": 537.86,
+          "width": 154.29,
+          "height": 230
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-156_jpg.rf.a07dc2de28264e21bc53fd33c5eae03b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1115,
+          "y": 538.57,
+          "width": 158.57,
+          "height": 228.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-157_jpg.rf.d1132571f1bb67c4d538418778e95d40.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1109.29,
+          "y": 532.14,
+          "width": 150,
+          "height": 238.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-158_jpg.rf.21f8a2086ee6a03af2ed23077f9ba419.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1113.57,
+          "y": 543.57,
+          "width": 152.86,
+          "height": 218.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-159_jpg.rf.635d26f63af5de18f772c448b0fb87d9.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1118.57,
+          "y": 552.86,
+          "width": 151.43,
+          "height": 197.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-160_jpg.rf.e88ce8124a0c7ebc5be957ee87a4eb5d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1127.14,
+          "y": 546.43,
+          "width": 160,
+          "height": 210
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-161_jpg.rf.94c615efd787f10ce8028d40c70d6c97.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1132.86,
+          "y": 537.86,
+          "width": 162.86,
+          "height": 227.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-162_jpg.rf.1dcf6b60d833d2ccb384f2d21f55a553.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1136.43,
+          "y": 539.29,
+          "width": 164.29,
+          "height": 215.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-163_jpg.rf.17183491c8b715466578d818b20ee2e3.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1133.57,
+          "y": 532.86,
+          "width": 158.57,
+          "height": 225.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-164_jpg.rf.92f9095f49ea2d0c27499731d91f19db.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1130.71,
+          "y": 533.57,
+          "width": 161.43,
+          "height": 215.71
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-165_jpg.rf.4025a96f48105fe8097a9a9a3f8eba99.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1118.57,
+          "y": 530,
+          "width": 162.86,
+          "height": 214.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-166_jpg.rf.98c3d1d487662060854a74afe099c9b4.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1100,
+          "y": 528.57,
+          "width": 154.29,
+          "height": 222.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-167_jpg.rf.c7466b87e2b13387dc45fc3ca4ae04d4.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1076.43,
+          "y": 531.43,
+          "width": 150,
+          "height": 240
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-168_jpg.rf.c2970b7f1c12b6ed2e3b7194fc87faea.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1065.71,
+          "y": 558.57,
+          "width": 145.71,
+          "height": 234.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-169_jpg.rf.97825cec2fbdd58e3ef89bdd2f1dde46.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1055,
+          "y": 592.14,
+          "width": 161.43,
+          "height": 207.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-170_jpg.rf.5fa594ccb6d9ed615fd9c2ad3a7d2c5a.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1050,
+          "y": 618.57,
+          "width": 165.71,
+          "height": 174.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-171_jpg.rf.d7319b45b69564659162fcb3f6407916.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1026.43,
+          "y": 637.14,
+          "width": 175.71,
+          "height": 160
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-172_jpg.rf.d6a391ee7b3cb61a5b6636f12a0e6359.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1015,
+          "y": 643.57,
+          "width": 172.86,
+          "height": 164.28
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-173_jpg.rf.094cf4a437305feee665794a56231270.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 999.29,
+          "y": 648.57,
+          "width": 190,
+          "height": 162.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-174_jpg.rf.cf5813ebf8f88f347cfb6fd5351d99d6.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1001.43,
+          "y": 642.86,
+          "width": 188.57,
+          "height": 171.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-175_jpg.rf.3cecceafaf58e3aa2845190187433bb0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1004.29,
+          "y": 624.29,
+          "width": 182.86,
+          "height": 182.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-176_jpg.rf.b23748b4fbc86e7b074c82b6b46837f9.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1012.86,
+          "y": 607.86,
+          "width": 180,
+          "height": 198.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-177_jpg.rf.40c02f4da7f1d23ff7b32909a84d6781.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1022.14,
+          "y": 594.29,
+          "width": 181.43,
+          "height": 202.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-178_jpg.rf.23d3ca0dd901ce3664b6b19cf422a931.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1030.71,
+          "y": 578.57,
+          "width": 175.71,
+          "height": 228.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-179_jpg.rf.3c925a225b25f14384fecb52fb9f3a3f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1048.57,
+          "y": 569.29,
+          "width": 162.86,
+          "height": 224.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-180_jpg.rf.16b94f161008d70e3cfa7184918fcb0f.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1072.86,
+          "y": 550.71,
+          "width": 168.57,
+          "height": 238.57
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-181_jpg.rf.0f7f71f6ec9b93cd28345603d759f85d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1090.71,
+          "y": 496.43,
+          "width": 158.57,
+          "height": 287.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-182_jpg.rf.708e1860854633feaea45ee608b5f6a5.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1166.43,
+          "y": 401.43,
+          "width": 141.43,
+          "height": 337.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-183_jpg.rf.a346360122a4d2bc5e4e6ca38f85f6c1.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1226.43,
+          "y": 318.57,
+          "width": 181.43,
+          "height": 377.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-184_jpg.rf.5199d21f3649a67e2ea37f7ce77440d9.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1275.71,
+          "y": 312.86,
+          "width": 180,
+          "height": 360
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-185_jpg.rf.76ef0495d3ce9bd97e8bc310576db220.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1304.29,
+          "y": 296.43,
+          "width": 231.43,
+          "height": 384.28
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-186_jpg.rf.21f569b9b118dcb9376647b3e8aa9db4.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1312.54,
+          "y": 300,
+          "width": 252.06,
+          "height": 374.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-187_jpg.rf.1578583a7ca9a4a177a60dec5d4123b5.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1323.57,
+          "y": 311.43,
+          "width": 247.14,
+          "height": 362.86
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-188_jpg.rf.6c7fd582a63109dddf0dfbe54c449d1b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1321.43,
+          "y": 320,
+          "width": 248.57,
+          "height": 357.14
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-189_jpg.rf.579e3643696a5cf8943837a4b1a7bfef.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1312.86,
+          "y": 335,
+          "width": 242.86,
+          "height": 361.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-190_jpg.rf.b6f5bf6a29754499366706ee54df6501.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1301.43,
+          "y": 338.57,
+          "width": 237.14,
+          "height": 371.43
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-191_jpg.rf.d7450eb9683d9f3eb7bcac53e46ea9c9.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1283.57,
+          "y": 355,
+          "width": 215.71,
+          "height": 384.29
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-192_jpg.rf.def47efe141d9d9bc7515b84c07eaed2.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1248.69,
+          "y": 385,
+          "width": 194.05,
+          "height": 370
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-193_jpg.rf.69da778447c47b9e4c7ba229eeae8225.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1204.23,
+          "y": 435,
+          "width": 185.38,
+          "height": 348.46
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-194_jpg.rf.d7bfd25d00ce83468d21e4394d3a1104.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1176.15,
+          "y": 460.38,
+          "width": 170.77,
+          "height": 333.08
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-195_jpg.rf.f1e96aac19a9981fea4efaab636a47a0.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1149.62,
+          "y": 491.92,
+          "width": 163.85,
+          "height": 311.54
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-196_jpg.rf.6771b7039504a642043536756699cce7.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1136.54,
+          "y": 503.85,
+          "width": 162.31,
+          "height": 301.54
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-197_jpg.rf.f46db2d28b36c5605fd36531f5887205.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1129.62,
+          "y": 511.54,
+          "width": 162.31,
+          "height": 303.08
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-198_jpg.rf.389e5f9aaaf44d2d6d588ed2fb276d4b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1125,
+          "y": 514.23,
+          "width": 163.85,
+          "height": 299.23
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-199_jpg.rf.70dc3269f88b3633b525c26625c53d29.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1116.92,
+          "y": 513.85,
+          "width": 160,
+          "height": 304.62
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-200_jpg.rf.8efc51d089197f3d3b659044d7cd16a2.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1111.92,
+          "y": 514.62,
+          "width": 156.15,
+          "height": 304.62
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-201_jpg.rf.8cfec4c475c194a1a40718af6610cd8a.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1106.92,
+          "y": 515.77,
+          "width": 153.85,
+          "height": 303.85
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-202_jpg.rf.f7ca2648520011f66fcfd9c70efabc22.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1110.77,
+          "y": 503.85,
+          "width": 163.08,
+          "height": 333.85
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-203_jpg.rf.6b49692b13044678c10ffec0ad3c3310.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1103.46,
+          "y": 523.08,
+          "width": 153.08,
+          "height": 295.38
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-204_jpg.rf.bde3db442e0d29f032682efa9672654a.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1104.23,
+          "y": 532.69,
+          "width": 157.69,
+          "height": 277.69
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-205_jpg.rf.4638d7f419a6f1fa8590f19b37a1e6da.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1104.23,
+          "y": 526.54,
+          "width": 157.69,
+          "height": 296.15
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-206_jpg.rf.ca4ff998eed37d607ff0dcf8c99fe586.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1107.69,
+          "y": 529.23,
+          "width": 164.62,
+          "height": 298.46
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-207_jpg.rf.93c75fbdb1fffe02f5da25459e832f51.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1103.08,
+          "y": 548.85,
+          "width": 155.38,
+          "height": 273.08
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-208_jpg.rf.be61577f5c1a3cc9bba5552271896910.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1104.17,
+          "y": 537.92,
+          "width": 163.33,
+          "height": 305.83
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-209_jpg.rf.cb6109ebf443a9ac21a0b24f4c4a2876.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1095.83,
+          "y": 561.25,
+          "width": 145,
+          "height": 264.17
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-210_jpg.rf.875d3f581afd74f66c15a44c8fbb559d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1096.67,
+          "y": 557.5,
+          "width": 148.33,
+          "height": 271.67
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-211_jpg.rf.245fa6a66c8e46a5b3b28cfbd2da8293.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1095.83,
+          "y": 560.83,
+          "width": 150,
+          "height": 266.67
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-212_jpg.rf.b5df4d7a56d55bdf3cdddb4a5e3308fb.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1104.17,
+          "y": 550.83,
+          "width": 153.33,
+          "height": 285
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-213_jpg.rf.0747312b79b1ef7dd9c588461ff388c2.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1140.83,
+          "y": 520.42,
+          "width": 203.33,
+          "height": 329.17
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-214_jpg.rf.016e315e289d3dd86d036252a5cf8582.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1170.83,
+          "y": 496.25,
+          "width": 216.67,
+          "height": 352.5
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-215_jpg.rf.ced198fc08a6599ebf71cec9c86d84ec.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1210.42,
+          "y": 475,
+          "width": 235.83,
+          "height": 351.67
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-216_jpg.rf.6a83355589c8f2d80cadf0ebac424eb1.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1223.75,
+          "y": 458.33,
+          "width": 240.83,
+          "height": 353.33
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-217_jpg.rf.dba38e36c00d7208f2dca2b970956cdf.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1237.08,
+          "y": 438.75,
+          "width": 240.83,
+          "height": 357.5
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-218_jpg.rf.459e613317a8c96cba553eba479aba16.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1246.25,
+          "y": 425.42,
+          "width": 242.5,
+          "height": 370.83
+        }
+      }
+    ]
+  },
+  {
+    "image": "DSC_0228-1-_mp4-219_jpg.rf.379ba4e09ae97a1c18a082418fc3258d.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1254.17,
+          "y": 410.42,
+          "width": 248.33,
+          "height": 375.83
+        }
+      }
+    ]
+  },
+  {
+    "image": "img_219_jpg.rf.a5846aefe1ef21bd9b1dd7625efb910b.jpg",
+    "annotations": [
+      {
+        "label": "face",
+        "coordinates": {
+          "x": 1254.29,
+          "y": 400.71,
+          "width": 254.29,
+          "height": 370
+        }
+      }
+    ]
+  }
+]
