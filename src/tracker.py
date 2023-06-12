@@ -275,7 +275,7 @@ class IncrementalTracker():
             # if 'coef' in self.param:
             #     # coefdiff = (abs(UDiff)-abs(param.coef))*tmpl.reseig./repmat(tmpl.eigval,[1,n]);
             #     tmp = (np.abs(UDiff) - np.abs(self.param['coef'])) * self.tmpl['reseig']
-            #     coefdiff = tmp / np.swapaxes(np.tile( (self.tmpl['eigval']), (self.nparticles, 1) ), 0, 1 ) #
+            #     coefdiff = tmp / np.swapaxes(np.tile( (self.tmpl['eigval']), (self.nparticles, 1) ), 0, 1 )
             # else:
             #     numer = UDiff * self.tmpl['reseig']
             #     coefdiff = np.zeros(numer.shape, dtype=np.float32)
